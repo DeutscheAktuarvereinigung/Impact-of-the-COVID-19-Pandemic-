@@ -1,5 +1,5 @@
-# Impact-of-the-COVID-19-Pandemic-
-Modeling and Forecasting using Affectedness Variables
+# Impact-of-the-COVID-19 Pandemic: Modeling and Forecasting using Affectedness Variables
+
 These notebooks represent the calculation of selected affectedness variables to model and forecast the impact of the COVID-19 pandemic. 
 The results are part of the "Auswirkungen der COVID-19-Pandemie" results report, which was prepared by the Pricing Methodology Working Group and can be found at the DAV website. 
 This report deals with issues of modeling and forecasting in the design of tariffs, taking into account the effects of the COVID-19 pandemic. 
